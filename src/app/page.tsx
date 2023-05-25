@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
      <img src='../homescreen_picture.jpg' 
-     width="800"
+     width="1000"
      height="auto"/>
     </main>
   )
